@@ -1,5 +1,6 @@
 package com.ran.pulsar.demo.offload;
 
+import com.ran.pulsar.demo.schema.User;
 import lombok.Cleanup;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.bookkeeper.client.BookKeeper;

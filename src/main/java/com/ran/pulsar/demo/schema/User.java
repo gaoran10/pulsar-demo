@@ -1,4 +1,4 @@
-package com.ran.pulsar.demo.offload;
+package com.ran.pulsar.demo.schema;
 
 import lombok.Data;
 
