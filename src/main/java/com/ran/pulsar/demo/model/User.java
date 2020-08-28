@@ -1,4 +1,4 @@
-package com.ran.pulsar.demo.schema;
+package com.ran.pulsar.demo.model;
 
 import lombok.Data;
 

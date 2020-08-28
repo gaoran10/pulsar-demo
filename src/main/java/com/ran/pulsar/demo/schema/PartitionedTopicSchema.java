@@ -1,5 +1,6 @@
 package com.ran.pulsar.demo.schema;
 
+import com.ran.pulsar.demo.model.User;
 import lombok.Cleanup;
 import org.apache.pulsar.client.api.Consumer;
 import org.apache.pulsar.client.api.Message;
